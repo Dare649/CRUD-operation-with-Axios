@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Tomike Bello",
+      "email": "Tomike@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Bobby James",
+      "email": "bobbyj@gmail.com"
+    },
+    {
+      "name": "Damilare Ajayi",
+      "email": "damilareajayi01@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "Kalu Michael",
+      "email": "michael@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "Bola Ahmed",
+      "email": "babu@gmail.com",
+      "id": 8
+    }
+  ]
+}
